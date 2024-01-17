@@ -1,0 +1,23 @@
+{
+  "infoData": [
+  {
+    "name": "Карате",
+    "date": "25.03.2024",
+    "maxPerson": 20,
+    "currentPerson": 10
+  },
+  {
+    "name": "Бокс",
+    "date": "27.03.2024",
+    "maxPerson": 10,
+    "currentPerson": 9
+  },
+  {
+    "name": "Плавание",
+    "date": "20.06.2024",
+    "maxPerson": 30,
+    "currentPerson": 17
+  }
+
+]
+}
